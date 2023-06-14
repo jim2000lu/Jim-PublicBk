@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<DBdata>
+        <dburl>jdbc:mysql://localhost:3306/mystore</dburl>
+        <dbusr>root</dbusr>
+        <password>1234</password>
+</DBdata>
