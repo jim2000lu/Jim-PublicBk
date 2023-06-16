@@ -40,5 +40,14 @@ https://www.youtube.com/watch?v=oJn_Gx5onnw
 (Google” 熊熊不見了”好像也行)裡面的圖都是自己畫的。
 https://play.google.com/store/apps/details?id=com.jimlu.BabyBear01&fbclid=IwAR3gq5-1nKGHD2m_4XwgVEjn6nsdk-eClb7-G_KVFBTFzcHOSuFksLac-ko 
 
+=======================
+2023/6/16.....新增補充 
+  所有web都有加css的技術,Demo Video沒寫.例如:
+  ASP.Net_MVC程式DemoVideo_2022 => Menu bar
+  其他Web,在Bootstrp的框架下加自己想要的顏色.
+
+
+
+
 
 
