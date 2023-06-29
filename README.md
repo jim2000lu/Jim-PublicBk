@@ -47,6 +47,14 @@ https://play.google.com/store/apps/details?id=com.jimlu.BabyBear01&fbclid=IwAR3g
   其他Web,在Bootstrp的框架下加自己想要的顏色.
 
 
+023/6/29.....修改補充
+  ASP.Net程式DemoVideo_2023,訂單功能加入Paging跟Sorting功能.
+Paging跟Sorting，都是在Client Site作用，不會增加Server的負擔。
+
+
+
+
+
 
 
 
